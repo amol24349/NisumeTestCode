@@ -1,0 +1,7 @@
+Right now this test is handled for chrome browser.
+To run this test you need to have chromedriver.exe into Utilities folder of this project (related path is already handled inside code)
+TestNG framework is used for this test hence it need to have configured in eclipse prior runiing this test.
+Also required to import/configure selenium jars into this project
+To Start the test, right click on file "NisumTest" and select Run as -> TestNG Test
+[For some reason, if test get failed after 2-3 steps .. then please re-run it]
+During test Run, most of the actions will get printed on the console
